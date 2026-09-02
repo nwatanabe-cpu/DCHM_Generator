@@ -7,7 +7,6 @@ qgisMaximumVersion=3.99
 author=Hanyuda
 email=n.watanabe@jforest-kitashinshu.or.jp
 homepage=https://github.com/nwatanabe-cpu/DCHM_Generator
-category=Raster
 icon=icon.png
 about=Correct DTM gaps and generate DCHM using user-selected exposed points.
 experimental=False
