@@ -1,0 +1,11 @@
+[general]
+name=DCHM_Generator
+description=Generate corrected DCHM from DSM and DTM using exposed points.
+version=1.0
+qgisMinimumVersion=3.0
+author=Hanyuda
+email=example@example.com
+category=Raster
+about=Correct DTM gaps and generate DCHM using user-selected exposed points.
+experimental=False
+icon=icon.png
