@@ -10,5 +10,4 @@ about=Correct DTM gaps and generate DCHM using user-selected exposed points.
 experimental=False
 tracker=https://github.com/nwatanabe-cpu/my_plugin/issues
 repository=https://github.com/nwatanabe-cpu/my_plugin
-category=Raster
 icon=icon.png
